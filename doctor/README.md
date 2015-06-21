@@ -3,6 +3,7 @@ doctor
 
 - Módulo para OpenERP v8. 
 - Permite la gestión de un consultorio médico.
+- Original https://github.com/hivam/doctor
  
 TODO
 ====
